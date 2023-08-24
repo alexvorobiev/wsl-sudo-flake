@@ -1,0 +1,9 @@
+# Python artifacts
+/*.egg-info/
+/__pycache__/
+
+# Nix artifacts
+result
+
+# Direnv cache
+.direnv
